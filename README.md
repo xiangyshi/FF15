@@ -77,7 +77,7 @@ The score of the final model is approximately 0.88, which is certainly better th
 ## Fairness Analysis
 
 ### Group Choice
-Group X: games with at most 4 dragons
+Group X: games with at most 4 dragons \
 Group Y: games with more than 4 dragons
 
 ### Evaluation Metric
