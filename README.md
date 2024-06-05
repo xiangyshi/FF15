@@ -1,6 +1,6 @@
-# FF15
+# [FF15](https://xiangyshi.github.io/FF15/)
 
-By Leo Shi (A17033789) and Eric Gu (A16817621)
+By: Leo Shi & Eric Gu 
 
 ## Framing the Problem
 
